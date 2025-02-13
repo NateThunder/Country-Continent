@@ -1,4 +1,4 @@
-**Country continents:**
+# Country continents
 
 This program tells the user what continent the country of their choice is in.
 
